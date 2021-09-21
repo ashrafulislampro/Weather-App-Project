@@ -1,0 +1,20 @@
+body {
+          background: url(images/bg-image.jpg) no-repeat;
+          background-size: cover;
+          height: 100vh;
+      }
+      .country_name{
+                background-color: rgb(156, 156, 13);
+                padding: 10px;
+                border-radius: 10px;
+      }
+      .lead{
+                color: #fff;
+                font-weight: bold;
+                font-size: 25px;
+      }
+      .situation{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+      }
